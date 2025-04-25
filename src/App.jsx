@@ -30,6 +30,7 @@ function App() {
         } catch (err) {
             setError(err.message);
             setOpen(true);
+            setData([])
         } finally {
             setLoading(false);
         }
