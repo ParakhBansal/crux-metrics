@@ -17,3 +17,8 @@ You can enter URLs one by one and press Enter after each. Then click Submit to f
 The table supports sorting and filtering. Errors are shown using a snackbar if API fails.
 
 A .env file is included with the API key. You can replace the key if needed.
+
+
+
+
+Live Demo :- https://crux-metrics.vercel.app/
